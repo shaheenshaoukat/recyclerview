@@ -8,4 +8,9 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="mycll">#3A55EA</color>
+    <color name="red">#E91E63</color>
+    <color name="yellow">#FF5722</color>
+    <color name="green">#BA0932</color>
+    <color name="murchanda">#B10FDD</color>
+    <color name="purple">#CDDC39</color>
 </resources>
